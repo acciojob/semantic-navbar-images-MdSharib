@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+li{
+    list-style-type: none;
+    padding: 10px;
+    
+}
+
+a{
+    color: inherit;
+    text-decoration: none;
+}
+
+nav{
+    display: flex;
+    padding: 10px;
+    
+    /* background-color: aquamarine; */
+}
